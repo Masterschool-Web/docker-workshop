@@ -1,22 +1,20 @@
-![docker_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png)
+![docker 🐳](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png)
 
-# Docker 🐳
-
-## Why
+# Why
 
 The problem
 
-## What
+# What
 
 It is a container, that...
 
-## The Process
+# The Process
 
-### Starting a container
+## Starting a container
 
-### Running a container
+## Running a container
 
-## Simple Example
+## Example I
 
 ```dockerfile
 # use an existing docker image as a base
