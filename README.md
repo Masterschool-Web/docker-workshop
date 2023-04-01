@@ -1,3 +1,5 @@
+![docker_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png)
+
 # Docker 🐳
 
 ## Why
