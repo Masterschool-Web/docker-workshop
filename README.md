@@ -2,7 +2,9 @@
 
 # Why
 
-The problem
+## The problem
+
+## The solution
 
 # What
 
